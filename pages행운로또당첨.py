@@ -90,4 +90,4 @@ def main():
             number_html = "".join([f"<span class='number-display'>{num}</span>" for num in numbers])
             st.markdown(f"<div>{number_html}</div>", unsafe_allow_html=True)
             
-            st.markdown(f"</div>", unsafe_allow_
+            st.markdown(f"</div>", unsafe_allow_ )
